@@ -12,3 +12,16 @@ Salva o código de barras como uma imagem
 
 3- Ipython = oferece recursos como exibição de imagens...
 Exibe a imagem diretamente no ambiente interativo
+
+# ---
+### Executando o arquivo
+python app.py
+
+### Código de barras
+- deve ser 12 números
+
+### Nome do arquivo
+- por padrão, foi configurado "barcode_" para estar junto ao nome do arquivo
+
+### Gerando a imagem
+- a imagem será gerada na mesma pasta que o arquivo App.py estiver
